@@ -1,5 +1,5 @@
-**# 🎬 Movie Ticket Booking System
-**
+# 🎬 Movie Ticket Booking System
+
 **MySQL Database Management & SQL Analytics Project**
 
 A MySQL-based Movie Ticket Booking System designed to manage movie information, theatres, screens, seats, users, show schedules, bookings, and payments. This project demonstrates relational database design and SQL querying through booking reports, revenue analysis, seat pricing, and payment tracking.
